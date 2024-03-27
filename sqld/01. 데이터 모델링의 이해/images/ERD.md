@@ -5,10 +5,10 @@
 	4) Min-Max/ISO : 각엔터티의 참여도 좀 더 상세히 기술
 	5) UML: 소프트웨어 공학에서 주로 사용
 	6) Case*Method/Barker: Oracle에서 사용, Crow's 와 비슷함
-	그림만 참고할 것![[Pasted image 20240327175939.png]]
+	그림만 참고할 것![[Pasted image 20240327175939.png]](./Pasted image 20240327175939.png)
 	
 1) IE/Crow's Foot표기법
-	![[Pasted image 20240327175752.png]]
+	![[Pasted image 20240327175752.png]](./Pasted image 20240327175752.png)
 	
 1) 작성 순서
 	- 어떤 표기법을 사용하던 공통된 룰
